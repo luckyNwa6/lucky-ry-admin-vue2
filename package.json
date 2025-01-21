@@ -5,6 +5,8 @@
   "author": "芋道",
   "license": "MIT",
   "scripts": {
+    "node14": "nvm use 16",
+    "i": "yarn",
     "local": "vue-cli-service serve --mode local",
     "dev": "vue-cli-service serve --mode dev",
     "front": "vue-cli-service serve --mode front",
